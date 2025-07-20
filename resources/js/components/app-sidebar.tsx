@@ -39,7 +39,7 @@ const data = {
       isActive: true,
       items: [
         {
-          title: 'Polisi',
+          title: 'Personel',
           url: '#',
         },
         {
